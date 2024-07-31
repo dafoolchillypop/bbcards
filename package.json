@@ -1,0 +1,28 @@
+{
+  "name": "bbcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafoolchillypop/bbcards.git"
+  },
+  "keywords": [
+    "AI",
+    "builders",
+    "baseball"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dafoolchillypop/bbcards/issues"
+  },
+  "homepage": "https://github.com/dafoolchillypop/bbcards#readme",
+  "dependencies": {
+    "@langchain/community": "^0.2.22",
+    "@langchain/core": "^0.2.18"
+  }
+}
