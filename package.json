@@ -23,6 +23,7 @@
   "homepage": "https://github.com/dafoolchillypop/bbcards#readme",
   "dependencies": {
     "@langchain/community": "^0.2.22",
-    "@langchain/core": "^0.2.18"
+    "@langchain/core": "^0.2.18",
+    "@langchain/ollama": "^0.0.2"
   }
 }
