@@ -24,6 +24,8 @@
   "dependencies": {
     "@langchain/community": "^0.2.22",
     "@langchain/core": "^0.2.18",
-    "@langchain/ollama": "^0.0.2"
+    "@langchain/ollama": "^0.0.2",
+    "chromadb": "^1.8.1",
+    "convert-csv-to-json": "^2.48.0"
   }
 }
